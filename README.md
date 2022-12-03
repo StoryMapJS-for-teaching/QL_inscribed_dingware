@@ -1,3 +1,5 @@
+Site is live at https://storymapjs-for-teaching.github.io/QL_inscribed_dingware/
+
 Ding stoneware bowl with inscription on base (bowl: 12th century (Northern Song or Jin dynasties); inscription by Qianlong emperor dated 1777). 
 
 Diameter: 180 millimetres; Height: 52 millimetres 
