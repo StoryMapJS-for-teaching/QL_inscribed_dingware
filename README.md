@@ -5,6 +5,7 @@ Diameter: 180 millimetres; Height: 52 millimetres
 British Museum PDF 108 
 
 Image © The Trustees of the British Museum (CC BY-NC-SA 4.0)
+https://www.britishmuseum.org/collection/object/A_PDF-108
 
 Inscription text:
 簇粉堆花雙鳳蕤 
